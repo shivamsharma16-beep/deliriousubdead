@@ -1,7 +1,7 @@
 {
-  "name": "Hêllẞø†",
-  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "name": "ᎠᎬᏝᎨᏒᎨᎾᏬᏕ",
+  "description": "ᎠᎬᏝᎨᏒᎨᎾᏬᏕ is one of the Best UserBot for Telegram. Known for its Safety And It's Feature",
+   "logo" : "https://telegra.ph/file/d6e6b1fcf3252659923fd.jpg"
     "keywords": [
     "telegram",
     "userbot",
@@ -11,17 +11,17 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-HellBot/HellBot/",
-  "website": "https://github.com/The-HellBot/",
-  "success_url": "https://t.me/The_HellBot",
+  "repository": "https://github.com/shivamsharma16-beep/missdeliriousubhttps://github.com/shivamsharma16-beep/deliriousub",
+  "website": "https://github.com/deliriousub",
+  "success_url": "https://t.me/missdeliriousupdates",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "YOUR_NAME": {
-      "description": "Fill Your Telegram Name. Default Value is Hêll",
-      "value": "『ℌєℓℓ』",
+      "description": "Fill Your Telegram Name. Default Value is ᎠᎬᏝᎨᏒᎨᎾᏬᏕ",
+      "value": "ᎠᎬᏝᎨᏒᎨᎾᏬᏕ",
       "required": false
     },
     "ALIVE_MSG": {
@@ -31,7 +31,7 @@
     },
     "ALIVE_PIC": {
       "description": "Paste the telegraph link of a video/gif/pic to show on Alive.",
-      "value": "",
+      "value": "https://telegra.ph/file/d6e6b1fcf3252659923fd.jpg",
       "required": false
     },
     "ABUSE": {
@@ -41,7 +41,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "Paste the Telegraph link to show in pm permit message.",
-      "value": "",
+      "value": "https://telegra.ph/file/d6e6b1fcf3252659923fd.jpghttps://github.com/shivamsharma16-beep/missdeliriousubhttps://telegra.ph/file/d6e6b1fcf3252659923fd.jpg",
       "required": false
     },
     "PM_LOG_ID": {
@@ -55,11 +55,11 @@
     },
     "EMOJI_IN_HELP": {
       "description": "A emoji to display in help command",
-      "value": "🔸"
+      "value": "🇮🇳"
     },
     "BUTTONS_IN_HELP": {
       "description": "No.of buttons to display in help menu.",
-      "value": "7"
+      "value": "5"
     },
     "PM_PERMIT": {
       "description": "Fill DISABLE to turn off pm permit.",
@@ -78,7 +78,7 @@
       "value": ""
     },
     "HELLBOT_SESSION": {
-      "description": "Get this value by using repl or termux. Refer to Repo for more info.",
+      "description": "Get this value by using repl or termux. Refer to Repo for more info Any Userbot Session Works;",
       "value": ""
     },
     "HEROKU_API_KEY": {
