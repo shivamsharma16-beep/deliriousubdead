@@ -50,7 +50,7 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Your HellBot Session Will be saved in your Telegram Saved Message.
-- [![Replit](https://replit.com/@TheHellBot/HellBot?v=1)
+- [![Replit] (https://replit.com/@TheHellBot/HellBot?v=1)
 ------
 ## Disclaimer
 - We won't be responsible for any kind of ban due to this bot.
