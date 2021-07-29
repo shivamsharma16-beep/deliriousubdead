@@ -1,4 +1,4 @@
-FROM teamvaders/hellbot:latest
+FROM shivamsharma16-beep/deliriousub:latest
 
 #clonning repo 
 RUN git clone https://github.com/shivamsharma16-beep/invader.git /root/hellbot
