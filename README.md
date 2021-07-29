@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/d6e6b1fcf3252659923fd.jpghttps://github.com/shivamsharma16-beep/missdeliriousub" alt="ᎿᎻᎬ-ᎠᎬᏝᎨᏒᎨᎾᏬᏕ">
+  <img src="https://telegra.ph/file/d6e6b1fcf3252659923fd.jpghttps://github.com/shivamsharma16-beep/missdeliriousub"
 </p>
 
 <h6 align="center">
