@@ -45,9 +45,9 @@ Method:-1
 
 Use Any Userbot String Session
 
-Method :-2
+Method 2
 
-Go To t.me/SessionGeneratorBot
+Go To @SessionGeneratorBot On Telegram
 ------
 ## Disclaimer
 - We won't be responsible for any kind of ban due to this bot.
