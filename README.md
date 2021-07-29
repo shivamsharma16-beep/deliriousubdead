@@ -41,16 +41,13 @@
 
 ------
 ## String Session
+Method:-1 
 
-### Repl
-- Open Repl Link.
-- Click on Green Play Button.
-- Wait for requirements to finish.
-- Fill API ID, API HASH, Phone number (with country code).
-- Paste the OTP received on Telegram.
-- If You have Enabled 2-Step Verification then fill your password.
-- Your HellBot Session Will be saved in your Telegram Saved Message.
-- [![Replit] (https://replit.com/@TheHellBot/HellBot?v=1)
+Use Any Userbot String Session
+
+Method :-2
+
+Go To t.me/SessionGeneratorBot
 ------
 ## Disclaimer
 - We won't be responsible for any kind of ban due to this bot.
